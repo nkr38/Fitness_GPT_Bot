@@ -8,4 +8,4 @@ This is a Telegram bot written in python that uses the OpenAI API to generate a 
 
 https://t.me/fitness_gpt_bot
 
-![image](https://github.com/nkr38/Fitness_GPT_Bot/assets/69133832/af6cb111-f452-41d8-8d3a-6366086feff2)
+![DreamShaper_v5_very_detailed_cute_robot_t_shirt_design_cinemat_0](https://github.com/nkr38/Fitness_GPT_Bot/assets/69133832/00ab75db-ec1a-466f-8bda-f41aa42728e0)
