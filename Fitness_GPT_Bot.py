@@ -8,7 +8,7 @@ TELE_API_TOKEN = "YOUR BOTS API"
 bot = telebot.TeleBot(TELE_API_TOKEN)
 
 # Set up the OpenAI API credentials
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = "OPENAI API KEY"
 
 user_dict = {}
 
